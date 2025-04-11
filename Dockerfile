@@ -1,6 +1,7 @@
 FROM eclipse-temurin:17-jdk-alpine
     
 EXPOSE 8080
+# expose the code
  
 ENV APP_HOME /usr/src/app
 
